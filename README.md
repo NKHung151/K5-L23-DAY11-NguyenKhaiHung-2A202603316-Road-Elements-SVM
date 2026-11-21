@@ -44,4 +44,4 @@ uv run --with pytest==8.3.4 pytest -q
 ## Bài nộp
 
 Link Google Drive: <https://drive.google.com/drive/folders/1EjzoZsRBGH4l4RFx6jgs_HzMoNymOb-V?usp=sharing>
-Link GitHub: <https://github.com/NKHung151/K5-L23-DAY11-NguyenKhaiHung-2A202603316-Road-Elements-SVM>
+
